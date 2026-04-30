@@ -10,7 +10,7 @@ Data scientist and ML researcher with experience in large-scale climate modeling
 
 ## Projects
 
-**jem-samudra-coupler** *(In Progress)* — Adapter package that couples a JAX-based atmospheric general circulation model ([JCM](https://github.com/climate-analytics-lab/jax-gcm)) with a PyTorch neural ocean emulator ([Samudra](https://github.com/suryadheeshjith/Samudra)) through the [JEM](https://github.com/climate-analytics-lab/jax-esm) coupling framework. Handles cross-framework data exchange (JAX ↔ PyTorch), grid regridding between spectral T31 and OM4 tripolar grids, and physical variable mapping for heat flux and wind stress boundary conditions.
+**jem-samudra-coupler** *(In Progress)* — Adapter package that couples a JAX-based atmospheric general circulation model ([JCM](https://github.com/climate-analytics-lab/jax-gcm)) with a PyTorch neural ocean emulator ([Samudra](https://github.com/suryadheeshjith/Samudra)) through the [JEM](https://github.com/climate-analytics-lab/jax-esm) coupling framework. Handles cross-framework data exchange (JAX ↔ PyTorch), grid regridding between spectral T106 and OM4 tripolar grids, and physical variable mapping for heat flux and wind stress boundary conditions.
 
 **Liver Cancer Spatial Epidemiology** *(In Progress)* — Spatial Bayesian analysis investigating the relationship between environmental exposures and hepatocellular carcinoma (HCC) incidence across US geographies.
 
